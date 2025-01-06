@@ -48,14 +48,15 @@ I am Kxysl1k, a developer with a passion for creating interactive tools and auto
 
 <div align="left">
   <img src="./assets/java.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="./assets/python.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="./assets/html5.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="./assets/css3.svg" height="40" alt="css3 logo"  />
+  <img width="10" />
   <img src="./assets/javascript.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="10" />
 </div>
 
 ###
