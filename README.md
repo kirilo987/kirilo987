@@ -31,7 +31,7 @@
 
 ###
 
-# Привіт! 👋
+# Hello! 👋
 
 I am Kxysl1k, a developer with a passion for creating interactive tools and automation.
 
