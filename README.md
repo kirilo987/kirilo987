@@ -32,7 +32,7 @@ I am Kxysl1k, a developer with a passion for creating interactive tools and auto
 - 🔧 Create interesting projects.
 - 🙏 Help others in their development.
 
-## Зв'язок
+## Communication
 - 💬 Discord: [@no_pon_yes_zroz](https://discord.com/users/836647735809146930)
 - ✉ Telegram: [@NO_PON_YES_ZROZ](https://discord.com/users/836647735809146930)
 
@@ -58,7 +58,7 @@ I am Kxysl1k, a developer with a passion for creating interactive tools and auto
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥  My statistics :</h3>
 
 ###
 
