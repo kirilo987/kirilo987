@@ -47,13 +47,15 @@ I am Kxysl1k, a developer with a passion for creating interactive tools and auto
 ###
 
 <div align="left">
-  <img alt="./assets/css3.svg" height="40" alt="javascript logo"  />
+  <img src="./assets/javascript.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="./assets/html5.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="./assets/css3.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="./assets/github-snake.svg" height="40" alt="python logo"  />
+    <img width="12" />
+  <img src="./assets/java.svg" height="40" alt="python logo"  />
 </div>
 
 ###
