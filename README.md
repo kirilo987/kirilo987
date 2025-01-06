@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Алексей!</h1>
+<h1 align="center">Hello👋 My name is Kxysl1k!</h1>
 
 ###
 
