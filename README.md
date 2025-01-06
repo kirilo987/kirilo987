@@ -53,7 +53,7 @@ I am Kxysl1k, a developer with a passion for creating interactive tools and auto
   <img width="12" />
   <img src="./assets/css3.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="./assets/github-snake.svg" height="40" alt="python logo"  />
+  <img src="./assets/icons.svg" height="40" alt="python logo"  />
     <img width="12" />
   <img src="./assets/java.svg" height="40" alt="python logo"  />
 </div>
