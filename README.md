@@ -25,7 +25,7 @@ I am Kxysl1k, a developer with a passion for creating interactive tools and auto
 
 ## Tools and technologies
 - **Programming languages**: Python, Java, HTML, CSS, JS.
-- **Tools**: Termius, Git, JetBrain IDE, VS code.
+- **Tools**: Termius, Git, JetBrain IDEs, VS code.
 
 ## Aspirations
 - 🌟 Constantly improve my skills.
