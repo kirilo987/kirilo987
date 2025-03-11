@@ -66,6 +66,8 @@ I am Kxysl1k, a developer with a passion for creating interactive tools and auto
   <img width="10" />
   <img src="./assets/javascript.svg" height="40" alt="javascript logo"  />
   <img width="10" />
+  <img src="./assets/mysql-logo-svgrepo-com.svg" height="40" alt="javascript logo"  />
+  <img width="10" />
 </div>
 
 ###
