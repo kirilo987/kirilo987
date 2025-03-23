@@ -16,7 +16,7 @@
 
 # Hello! 👋
 
-I am Kxysl1k, a developer with a passion for creating interactive tools and automation.
+I am Kxysl1k, a developer with a passion for creating interactive tools and automation. My personal [LICENSE](https://github.com/kirilo987/kirilo987/blob/main/MY_LICENSE/LICENSE.md)
 
 ## Occupation
 - 🛠 **Minecraft**: I create plugins for Paper and configure servers.
@@ -25,7 +25,7 @@ I am Kxysl1k, a developer with a passion for creating interactive tools and auto
 
 ## Tools and technologies
 - **Programming languages**: Python, Java, HTML, CSS, JS.
-- **Tools**: Termius, Git, JetBrain IDE, VS code.
+- **Tools**: Termius, Git, Tabby, JetBrain IDEs, VS code.
 
 ## Aspirations
 - 🌟 Constantly improve my skills.
