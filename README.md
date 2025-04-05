@@ -24,8 +24,8 @@ I am Kxysl1k, a developer with a passion for creating interactive tools and auto
 - 💻 **Automation systems**: I integrate SSH for servers using modern control panels.
 
 ## Tools and technologies
-- **Programming languages**: Python, Java, HTML, CSS, JS.
-- **Tools**: Termius, Git, Tabby, JetBrain IDEs, VS code.
+- **Programming languages**: Python, Java, MySQL, HTML, CSS.
+- **Tools**: Termius, Git, Tabby, JetBrain IDEs, VS code, Termius.
 
 ## Aspirations
 - 🌟 Constantly improve my skills.
