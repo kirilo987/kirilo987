@@ -12,6 +12,8 @@
 
 <h3 align="left">About me</h3>
 
+[![wakatime](https://wakatime.com/badge/user/ad26c7ba-455a-4c67-a816-cb69c75e863f.svg)](https://wakatime.com/@ad26c7ba-455a-4c67-a816-cb69c75e863f)
+
 ###
 
 # Hello! 👋
